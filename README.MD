@@ -24,6 +24,7 @@ other than that you should also define the columns to be scraped in the variable
  
 If you want an insight of how program works uncomment the print staements in the program and it will help you again some more knowledge
 about the program.
+> Outout will be saved in a JSOn file after completion.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
