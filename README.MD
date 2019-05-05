@@ -1,10 +1,10 @@
 # Libraries used
 
-*__BeautifulSoup__ is a Python library for pulling data out of HTML and XML files. And it provide idiomatic ways of navigating,
+- __BeautifulSoup__ is a Python library for pulling data out of HTML and XML files. And it provide idiomatic ways of navigating,
 searching, and modifying the parse tree.
-*__Requests__ is a Python HTTP library, released under the Apache2 License. The goal of the
+- __Requests__ is a Python HTTP library, released under the Apache2 License. The goal of the
 project is to make HTTP requests simpler and more human-friendly.
-*__Json__ to work with JSON data in python we must import this library.
+- __Json__ to work with JSON data in python we must import this library.
 
 ## Installation
 
